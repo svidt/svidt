@@ -1,4 +1,5 @@
-👋 Ahoy,
+👋 Ahoy
+
 Newly aboard the MS GitHub 🛳
 
 I have a keen interest in Web3 and I'm currently learning **Rust**
