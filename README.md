@@ -1,9 +1,8 @@
 👋 Ahoy
-
 Newly aboard the MS GitHub 🛳
 
 I have a keen interest in Web3 and I'm currently learning **Rust**
-  – along with blockchain frameworks such as Substrate, Cosmos SDK and Anchor
+  – along with blockchain frameworks such as Substrate and Cosmos SDK
   
 Hit me up for collaborations, I am always looking for new oppertinues to grow ⭐️
 
