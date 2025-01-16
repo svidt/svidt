@@ -16,7 +16,6 @@ Call me **Svidt** – I'm an **iOS Developer** and **Motion Designer** passionat
 
 - **Rust Programming** – Diving into systems programming, blockchain, and smart contracts with **Solana** and **Polkadot**.  
 - **UI Animation** – Experimenting with **Rive** to push the boundaries of interactive design.  
-- **Robotics** – Beginning to explore robotics and its potential integration with app development.  
 
 ## 🎯 My Goals  
 
