@@ -1,31 +1,29 @@
 # 👋 Hi there! Welcome to my GitHub  
 
-Call me Svidt, I'm an **iOS Developer** and **Motion Designer** passionate about crafting seamless, engaging user experiences that blend creativity and technology.  
+Call me **Svidt** – I'm an **iOS Developer** and **Motion Designer** passionate about crafting seamless, engaging user experiences that blend creativity and technology.  
 
 ---
 
 ## 🚀 What I Do  
 
 - **iOS Development**  
-  I specialize in creating sleek, user-friendly apps using **Xcode**, **Swift**, and **SwiftUI**.  
+  I specialize in creating sleek, user-friendly apps using **Xcode**, **Swift**, and **SwiftUI**. I'm motivated to explore AR/VR, spatial computing, and VisionOS to shape the future of digital experiences.  
 
-- **Motion Design & Animation**  
-  With expertise in **After Effects**, I bring designs to life with dynamic motion and engaging storytelling.  
-
-- **Interactive Animations**  
-  Using **Rive**, I craft animations that enhance user experiences on both web and mobile apps.  
+- **Interactive Animations & Motion Design**  
+  With expertise in **After Effects**, I bring ideas to life with dynamic motion and compelling storytelling. Using **Rive**, I create animations that enhance user experiences across web and mobile platforms.  
 
 ## 🌱 Currently Exploring  
 
-- **Rust Programming** – Diving into systems programming for blockchain and smart contracts with **Solana** and **Polkadot**.  
-- **UI Animation** – Experimenting with tools like **Rive** to push interactive design boundaries.  
+- **Rust Programming** – Diving into systems programming, blockchain, and smart contracts with **Solana** and **Polkadot**.  
+- **UI Animation** – Experimenting with **Rive** to push the boundaries of interactive design.  
+- **Robotics** – Beginning to explore robotics and its potential integration with app development.  
 
 ## 🎯 My Goals  
 
-- Build standout iOS apps that combine beautiful design with seamless functionality.  
-- Collaborate on projects that challenge the intersection of motion design and development.  
+- Build iOS apps that combine beautiful design with seamless functionality.  
+- Collaborate on projects that merge motion design, animations, and cutting-edge technology.  
 
 ## 📫 Get in Touch  
 
-- **Portfolio:** [Svidt.me](https://svidt.framer.website/) 
-- **LinkedIn:** [Profile](https://linkedin.com/in/svidt)
+- **Portfolio:** [Svidt.me](https://svidt.framer.website/)  
+- **LinkedIn:** [Profile](https://linkedin.com/in/svidt)  
