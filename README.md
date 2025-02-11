@@ -1,26 +1,30 @@
 # 👋 Hi there! Welcome to my GitHub  
 
-Call me **Svidt** – I'm an **iOS Developer** and **Motion Designer** passionate about crafting seamless, engaging user experiences that merge creativity with technology.  
+Call me **Svidt** – I’m a **Blockchain Developer, iOS Developer, and Motion Designer** passionate about crafting seamless user experiences, building decentralized solutions, and bringing motion to life through animation.  
 
 ---
 
 ## 🚀 What I Do  
 
-- **iOS Development**  
-  I specialize in building sleek, user-friendly apps with **Swift**, **SwiftUI**, and **Xcode**. My focus is on **UI animations** and creating intuitive **user experiences** that feel effortless.  
+- **Blockchain Development**  
+  I work with **Rust** to develop **smart contracts** and blockchain solutions, focusing on **Solana** and **Polkadot**. I’m deeply interested in decentralized systems and how they can shape the future of technology.  
 
-- **Interactive Animations & Motion Design**  
-  With a background in **After Effects**, I create dynamic motion and compelling storytelling. Using **Rive**, I enhance UI interactions with lightweight, high-performance animations for web and mobile.  
+- **iOS Development**  
+  I specialize in creating **iOS, macOS, and VisionOS** apps using **Swift**, **SwiftUI**, and **Xcode**. My focus is on **interactive animations, smooth UI/UX design, and full app lifecycle management**, from development to App Store deployment.  
+
+- **Motion Design & Interactive Animations**  
+  With a background in **After Effects**, I’ve worked on dynamic motion and compelling storytelling. Now, I integrate animations into digital experiences using **Rive**, making interactions more engaging across mobile and web.  
 
 ## 🌱 What I'm Exploring  
 
-- **Rust & Blockchain Development**  
-  I'm diving into **systems programming**, **smart contracts**, and decentralized solutions with **Solana** and **Polkadot**.  
+- **Blockchain & Systems Programming**  
+  Expanding my expertise in **Rust**, **smart contracts**, and **decentralized ecosystems** like **Solana** and **Polkadot**.  
 
 ## 🎯 Goals & Aspirations  
 
-- Build iOS apps that blend beautiful design with seamless functionality.  
-- Explore the intersection of **motion design, animations, and cutting-edge technology**.  
+- Build blockchain-based applications and decentralized solutions.  
+- Develop iOS apps that blend beautiful design with seamless functionality.  
+- Explore the intersection of **motion design, UI animations, and cutting-edge technology**.  
 - Contribute to open-source projects and collaborate with like-minded developers.  
 
 ## 📫 Let’s Connect!  
