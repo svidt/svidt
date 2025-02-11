@@ -1,28 +1,34 @@
 # 👋 Hi there! Welcome to my GitHub  
 
-Call me **Svidt** – I'm an **iOS Developer** and **Motion Designer** passionate about crafting seamless, engaging user experiences that blend creativity and technology.  
+Call me **Svidt** – I'm an **iOS Developer** and **Motion Designer** passionate about crafting seamless, engaging user experiences that merge creativity with technology.  
 
 ---
 
 ## 🚀 What I Do  
 
 - **iOS Development**  
-  I specialize in creating sleek, user-friendly apps using **Xcode**, **Swift**, and **SwiftUI**. Emphasizing **UI Animations** and a unique **User Experience**
+  I specialize in building sleek, user-friendly apps with **Swift**, **SwiftUI**, and **Xcode**. My focus is on **UI animations** and creating intuitive **user experiences** that feel effortless.  
 
 - **Interactive Animations & Motion Design**  
-  With expertise in **After Effects**, I bring ideas to life with dynamic motion and compelling storytelling. Using **Rive**, I bring animations to life, making user experiences more engaging across web and mobile platforms.
+  With a background in **After Effects**, I create dynamic motion and compelling storytelling. Using **Rive**, I enhance UI interactions with lightweight, high-performance animations for web and mobile.  
 
-## 🌱 Currently Exploring  
+## 🌱 What I'm Exploring  
 
-- **Rust Programming** – Diving into systems programming, blockchain, and smart contracts with **Solana** and **Polkadot**.  
+- **Rust & Blockchain Development**  
+  I'm diving into **systems programming**, **smart contracts**, and decentralized solutions with **Solana** and **Polkadot**.  
 
-## 🎯 My Goals  
+## 🎯 Goals & Aspirations  
 
-- Build iOS apps that combine beautiful design with seamless functionality.  
-- Collaborate on projects that merge motion design, animations, and cutting-edge technology.  
+- Build iOS apps that blend beautiful design with seamless functionality.  
+- Explore the intersection of **motion design, animations, and cutting-edge technology**.  
+- Contribute to open-source projects and collaborate with like-minded developers.  
 
-## 📫 Get in Touch  
+## 📫 Let’s Connect!  
 
-- **Personal Website:** [Svidt.me](https://svidt.framer.website/)  
-- **LinkedIn:** [Profile](https://linkedin.com/in/svidt)
-- **X:** [X](https://x.com/hellosvidt)
+- **🌍 Website:** [Svidt.me](https://svidt.framer.website/)  
+- **💼 LinkedIn:** [Profile](https://linkedin.com/in/svidt)  
+- **🐦 X (Twitter):** [@hellosvidt](https://x.com/hellosvidt)  
+
+---
+
+### 🚀 Always building, always learning. Let’s create something amazing!  
