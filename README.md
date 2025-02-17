@@ -31,7 +31,8 @@ Call me **Svidt** – I’m a **Blockchain Developer, iOS Developer, and Motion 
 
 - **🌍 Website:** [Svidt.me](https://svidt.framer.website/)  
 - **💼 LinkedIn:** [Profile](https://linkedin.com/in/svidt)  
-- **🐦 X (Twitter):** [@hellosvidt](https://x.com/hellosvidt)  
+- **🐦 X (Twitter):** [@hellosvidt](https://x.com/hellosvidt)
+- **📎 Resume:** [Link](RESUME.md)
 
 ---
 
