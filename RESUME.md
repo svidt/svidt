@@ -20,7 +20,6 @@ A bit of a curveball in my journey—I spent two years managing a restaurant, wh
 ## SKILLS  
 
 - **Programming Languages:** Rust, Swift  
-- **Frameworks:** SwiftUI  
 - **Blockchain:** Smart Contracts, Solana, Polkadot  
 - **Design Tools:** Figma, Rive, Xcode  
 - **Platforms:** iOS, macOS, VisionOS  
