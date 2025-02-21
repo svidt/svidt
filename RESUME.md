@@ -1,26 +1,44 @@
 # RESUME  
 
 ## SUMMARY  
-Hey, I’m Svidt! I’m a tech enthusiast with a mix of skills in **blockchain development**, **iOS app development**, and **motion design**. I love tackling new challenges, whether it's building smart contracts, designing intuitive user experiences, or bringing motion to life through animation. I thrive under pressure, stay proactive, and always keep an open mind for learning and improving.  
+Hey, I’m Svidt! I’m a **Swift iOS Developer** with a passion for building seamless, high-performance applications. My background spans **mobile development, blockchain technology, and motion design**, allowing me to craft intuitive and engaging digital experiences. I'm particularly interested in **bridging the gap between mobile and blockchain**, making decentralized technologies more accessible through user-friendly apps. I thrive under pressure, stay proactive, and constantly push myself to learn and improve.  
+
+---
 
 ## EXPERIENCE  
 
-### Blockchain Developer (1 year)  
-Over the past year, I’ve been diving deep into **blockchain technology, mastering distributed systems architecture** and **smart contract development** using **Rust**. I’ve worked on implementing blockchain solutions within the **Solana** and **Polkadot** ecosystems, exploring how decentralized tech can reshape industries.  
+### **📱 iOS Developer (2+ years)**  
+For the past two years, I’ve been developing apps for **iOS, macOS, and VisionOS**, focusing on **Swift, SwiftUI, and Xcode**. My expertise lies in:  
+- **UI/UX design** – Crafting smooth, interactive experiences with a keen eye for aesthetics.  
+- **Animations & Motion** – Using **Rive** and **Lottie** to create dynamic, engaging interfaces.  
+- **App lifecycle management** – From concept and prototyping in **Figma** to **App Store deployment**.  
+- **Performance & Offline-First Architectures** – Ensuring apps run smoothly and efficiently.  
 
-### iOS Developer (2 years)  
-For the past two years, I’ve been developing apps across **iOS, macOS,** and **VisionOS**—building seamless, user-friendly experiences with **SwiftUI** and **Xcode**. I focus heavily on **UI/UX design** and **interactive animations,** using tools like **Figma for prototyping** and **Rive for dynamic motion**. From initial concept to **App Store deployment**, I handle the full app lifecycle.  
+I’m also exploring **AR/VR/XR technologies** and how they can enhance mobile experiences within Apple's ecosystem.  
 
-### Motion Designer (4 years)  
-Before getting into development, I spent four years as a **motion designer**, working with clients on **everything from short animations to full-scale branding projects**. I’ve managed multiple projects at once, often under tight deadlines, and developed solid client communication skills. As a freelancer, I built a diverse portfolio and learned how to **balance creativity with business**.  
+### **⛓️ Blockchain Developer (1+ year)**  
+Alongside mobile development, I’ve been working with **Rust** to build **smart contracts** and blockchain solutions. My focus has been on:  
+- **Developing decentralized applications** (dApps) within the **Solana** and **Polkadot** ecosystems.  
+- **Exploring ways to integrate blockchain with mobile applications**, improving accessibility and user experience.  
+- **Understanding distributed systems architecture** to create scalable, secure blockchain solutions.  
 
-### Restaurant Manager (2 years)  
-A bit of a curveball in my journey—I spent two years managing a restaurant, where I learned **leadership, team management**, and **problem-solving under pressure**. It gave me a strong foundation in **organization, communication,** and **keeping a team motivated in high-stress situations**.  
+### **🎨 Motion Designer (4 years)**  
+Before diving into development, I worked as a **motion designer**, collaborating with clients on **branding, animations, and interactive experiences**. My experience in **After Effects, Rive, and Figma** allows me to integrate motion design seamlessly into digital products.  
 
-## SKILLS  
+### **👨‍💼 Restaurant Manager (2 years)**  
+Managing a restaurant may not seem tech-related, but it taught me **leadership, team coordination, and problem-solving under pressure**—skills that translate well into development and project management.  
 
-- **Programming Languages:** Rust, Swift  
+---
+
+## 🛠 SKILLS  
+
+### **Technical Skills**  
+- **Programming:** Swift, Rust  
+- **Mobile Development:** iOS, macOS, VisionOS, SwiftUI, Xcode  
 - **Blockchain:** Smart Contracts, Solana, Polkadot  
-- **Design Tools:** Figma, Rive, Xcode  
-- **Platforms:** iOS, macOS, VisionOS  
-- **Soft Skills:** Leadership, Project Management, Client Relations, Team Collaboration  
+- **UI/UX & Design Tools:** Figma, Rive, Lottie, After Effects  
+
+### **Soft Skills**  
+- Project Management & Team Collaboration  
+- Client Communication & Problem-Solving  
+- Leadership & Adaptability  
