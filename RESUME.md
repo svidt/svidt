@@ -41,4 +41,10 @@ Managing a restaurant may not seem tech-related, but it taught me **leadership, 
 ### **Soft Skills**  
 - Project Management & Team Collaboration  
 - Client Communication & Problem-Solving  
-- Leadership & Adaptability  
+- Leadership & Adaptability
+  
+---
+
+## 📫 Let’s Connect!  
+- **🌍 Website:** [Svidt.me](https://svidt.framer.website/)  
+- **💼 LinkedIn:** [Profile](https://linkedin.com/in/svidt)  
