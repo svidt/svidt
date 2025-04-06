@@ -36,7 +36,3 @@ Call me **Svidt** – I’m an **iOS Developer and Motion Designer** passionate 
 - **💼 LinkedIn:** [Profile](https://linkedin.com/in/svidt)  
 - **🦣 Mastodon:** [Profile](https://mastodon.social/@svidt) 
 - **📎 Resume:** [Link](RESUME.md)  
-
----
-
-### 🚀 Always building, always learning. Let’s create something amazing!  
