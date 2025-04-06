@@ -34,7 +34,7 @@ Call me **Svidt** – I’m an **iOS Developer and Motion Designer** passionate 
 
 - **🌍 Website:** [Svidt.me](https://svidt.framer.website/)  
 - **💼 LinkedIn:** [Profile](https://linkedin.com/in/svidt)  
-- **🐦 X (Twitter):** [@hellosvidt](https://x.com/hellosvidt)  
+- **🦣 Mastodon:** [Profile](https://mastodon.social/@svidt) 
 - **📎 Resume:** [Link](RESUME.md)  
 
 ---
