@@ -1,7 +1,7 @@
 # Kristian Emil Svidt
 
 **iOS Developer & Motion Design Specialist**  
-hello@svidt.me
+hello@svidt.me |
 [svidt.me](https://svidt.me) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## Professional Profile
