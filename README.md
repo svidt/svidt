@@ -43,6 +43,7 @@ With my background and experience, I can understand and connect the work between
 * Strong skills in communication, teamwork, independent project management, and operational responsibility
 
 ## Education
+* Developing Applications CS193p, Stanford University, 2025 
 * Computer Science CS50x, Harvard University + EdX Online, 2024
-* Motion Design, Hyper Island, Karlskrona, Sweden, 2020
-* Visual Communication, School for Visual Communication, Haderslev, Denmark, 2017
+* Motion Design, Hyper Island, Sweden, 2020
+* Visual Communication, School for Visual Communication, Denmark, 2017
