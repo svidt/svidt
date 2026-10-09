@@ -1,8 +1,7 @@
-###### Design Engineer · Denmark
+###### Motion Designer · Denmark
 
-Motion designer turned full-stack builder. I make products that feel alive in the hand and hold up underneath, from first sketch to production.
+Motion designer and full-stack builder. I make products that feel alive in the hand and hold up underneath, from first sketch to production.
 
-My specialty is animation and the full digital product pipeline. I take ideas from concept and interaction design through engineering, data and deployment, on whatever platform the product needs. Motion is where I started, and it still shapes how I build: clear feedback, natural transitions, and interfaces that explain themselves.
+I started in motion, and it still shapes everything I build: clear feedback, natural transitions, and interfaces that explain themselves. Today that spans animation, film editing and compositing, and the whole product pipeline, from interaction design through engineering, data and deployment, on iOS and the web.
 
-[Kimchi Tours - Travel Platform](https://kimchi.tours) <br>
-[Svidt - Motion Design](https://svidt.me)
+More at [svidt.co](https://svidt.co)
